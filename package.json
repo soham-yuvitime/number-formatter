@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/soham-yuvitime/number-formatter.git"
+    "url": "git+https://github.com/soham-yuvitime/number-formatter-support-fdx.git"
   },
   "keywords": [
     "number-formatter"
@@ -13,9 +13,9 @@
   "author": "Soham Krishna Paul <support.fdx@gmail.com>",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/soham-yuvitime/number-formatter/issues"
+    "url": "https://github.com/soham-yuvitime/number-formatter-support-fdx/issues"
   },
-  "homepage": "https://github.com/soham-yuvitime/number-formatter#readme",
+  "homepage": "https://github.com/soham-yuvitime/number-formatter-support-fdx#readme",
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.2.0"
