@@ -5,11 +5,11 @@ A small library that adds commas to numbers
 
 ## Installation
 
-  `npm install @support.fdx/number-formatter`
+  `npm install number-formatter-support-fdx`
 
 ## Usage
 
-    var numFormatter = require('@support.fdx/number-formatter');
+    var numFormatter = require('number-formatter-support-fdx');
 
     var formattedNum = numFormatter(35666);
   
